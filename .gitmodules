@@ -1,0 +1,3 @@
+[submodule "Pedestrian-detection"]
+	path = Pedestrian-detection
+	url = https://github.com/Shashang2303/Pedestrian-detection.git
